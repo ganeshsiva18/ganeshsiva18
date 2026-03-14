@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ganeshsiva18/ganeshsiva18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About me! 
+🤔 I am Ganesh Sivadasan, a Freshman student at Hunter College who is pursuing a Bachelor's in Computer Science.
 
-Here are some ideas to get you started:
+⚡ I am skilled in C#, C++, Python, and Java. I aim to contribute to Open-Source projects and create APIs or Desktop and Mobile Applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍲 Outside of CS, I enjoy learning new skills, such as baking, cooking, and working on home improvement projects
+
+🔍 I also enjoy consuming media through an analytical lens, focusing on narrative architecture, interactive techniques, and user experience patterns to better understand the creator's intent
+
+## 🏅 Achievements
+🙌 Greatly increased member engagement in the Business for Good Club by creating interactive activities
+
+💡 Designated AP Scholar with Distinction with 4-5s in numerous Physics courses
+
+## 🔭 Contacts
+📌 [My LinkedIn](www.linkedin.com/in/ganeshsivadasan18)
