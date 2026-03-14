@@ -15,4 +15,4 @@
 💡 Designated AP Scholar with Distinction with 4-5s in numerous Physics courses
 
 ## 🔭 Contacts
-📌 [My LinkedIn](www.linkedin.com/in/ganeshsivadasan18)
+📌 [My LinkedIn](www.linkedin.com/in/ganeshsiva18)
