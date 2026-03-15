@@ -3,7 +3,7 @@
 ## 🌱 About me! 
 I am Ganesh Sivadasan, a Freshman student at Hunter College who is pursuing a Bachelor's in Computer Science.
 
-I am skilled in C#, C++, Python, and Java. I aim to contribute to Open-Source projects and create APIs or Desktop and Mobile Applications. 
+I am skilled in C#, C++, Python, Java, and HTML/CSS. I am looking to contribute to open-source projects and expand my software portfolio.
 
 Outside of CS, I enjoy learning new skills, such as baking, cooking, and working on home improvement projects
 
