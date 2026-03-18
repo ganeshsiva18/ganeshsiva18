@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hi there! 👋
 
 ## 🌱 About me! 
 I am Ganesh Sivadasan, a Freshman student at Hunter College who is pursuing a Bachelor's in Computer Science.
